@@ -214,7 +214,7 @@ font-weight: 200;
     padding: 15px 20px; /*внутренний отступ*/
     }
     /**MEDIA**/
-    @media (max-width: 550px) {
+    @media (max-width: 479px) {
     .iw-modal-wrapper {
     max-width: 200px;
     }
